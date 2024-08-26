@@ -16,7 +16,7 @@ Our next idea was to draw what some potential other visualizations would look li
 3. **Exposing the Opportunity Gap**
 
 	The opportunity gap, in its simplest form, is a change in something over time as we’re dealing with grades from a prerequisite class and grades from a subsequent class. Change over time is best presented to the human eye as a variable, at least in the west, that can be tracked from left to right since that’s how we read. Using this knowledge, a graph or chart that can take advantage of this use of left to right would prove to serve well in helping visualize the opportunity gap. A first iteration of the visualization could look like such, a line graph tracking each individual student’s grades from left to right with two Y-axes, one representing prerequisite grades on the left and another representing subsequent grades on the right:
-
+![Opportunity Gap Design Process and Analysis](https://github.com/user-attachments/assets/8884111f-5bfb-4092-a58d-a2754541a3c4)
 	With this visualization, the hope is that viewers will be able to pick out any given line, representing a single student's grade, and follow it from left to right. This way viewers will view the chart starting with prerequisite grade to subsequent grade and be able to see the positive or negative change in grade earned over time. Color is also used to categorize URM and non-URM students so that viewers can discern the two and hopefully observe that URM student’s grades trend downwards while non-URM student’s grades trend upwards. 
 
 4. **Iteration 1: Analysis**
