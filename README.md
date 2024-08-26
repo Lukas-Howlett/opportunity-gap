@@ -1,5 +1,4 @@
 # Opportunity Gap Design Process/Analysis  
-## Lukas Howlett and Andrew Notter
 
 1. **Introduction** 
 
